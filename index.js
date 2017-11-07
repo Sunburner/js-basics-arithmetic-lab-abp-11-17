@@ -13,4 +13,4 @@ ageIsValid = Number.isInteger(currentAge);
 
 randomNumber = Math.random() * 20 + 0;
 
-ran
+randomInteger = Math.floor(randomNumber)
